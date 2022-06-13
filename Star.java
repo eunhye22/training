@@ -24,4 +24,5 @@ public class Star {
 		}//outer-for
 	}//main
 	
+	
 }//end class
